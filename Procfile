@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT cool_games_4202.wsgi:application
